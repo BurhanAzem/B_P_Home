@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\workspace1\BUILDER_P_BURHAN_C#\bin\Debug\net6.0\BUILDER_P_BURHAN_C#.exe
+C:\Users\lenovo\Desktop\workspace1\BUILDER_P_BURHAN_C#\bin\Debug\net6.0\BUILDER_P_BURHAN_C#.deps.json
+C:\Users\lenovo\Desktop\workspace1\BUILDER_P_BURHAN_C#\bin\Debug\net6.0\BUILDER_P_BURHAN_C#.runtimeconfig.json
+C:\Users\lenovo\Desktop\workspace1\BUILDER_P_BURHAN_C#\bin\Debug\net6.0\BUILDER_P_BURHAN_C#.dll
+C:\Users\lenovo\Desktop\workspace1\BUILDER_P_BURHAN_C#\bin\Debug\net6.0\BUILDER_P_BURHAN_C#.pdb
+C:\Users\lenovo\Desktop\workspace1\BUILDER_P_BURHAN_C#\obj\Debug\net6.0\BUILDER_P_BURHAN_C#.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\workspace1\BUILDER_P_BURHAN_C#\obj\Debug\net6.0\BUILDER_P_BURHAN_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\workspace1\BUILDER_P_BURHAN_C#\obj\Debug\net6.0\BUILDER_P_BURHAN_C#.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\workspace1\BUILDER_P_BURHAN_C#\obj\Debug\net6.0\BUILDER_P_BURHAN_C#.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\workspace1\BUILDER_P_BURHAN_C#\obj\Debug\net6.0\BUILDER_P_BURHAN_C#.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\workspace1\BUILDER_P_BURHAN_C#\obj\Debug\net6.0\BUILDER_P_BURHAN_C#.dll
+C:\Users\lenovo\Desktop\workspace1\BUILDER_P_BURHAN_C#\obj\Debug\net6.0\refint\BUILDER_P_BURHAN_C#.dll
+C:\Users\lenovo\Desktop\workspace1\BUILDER_P_BURHAN_C#\obj\Debug\net6.0\BUILDER_P_BURHAN_C#.pdb
+C:\Users\lenovo\Desktop\workspace1\BUILDER_P_BURHAN_C#\obj\Debug\net6.0\BUILDER_P_BURHAN_C#.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\workspace1\BUILDER_P_BURHAN_C#\obj\Debug\net6.0\ref\BUILDER_P_BURHAN_C#.dll
